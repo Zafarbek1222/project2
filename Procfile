@@ -1,1 +1,2 @@
-web:gunicorn config.wsgi --log-file -
+web:gugit add .
+nicorn config.wsgi --log-file -
